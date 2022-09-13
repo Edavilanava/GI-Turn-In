@@ -1,0 +1,10 @@
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+}
+
+.bass {
+    max-width:50%;
+    height: 20px;
+}
